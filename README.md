@@ -10,8 +10,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=190&section=header&text=Rafael%20Mello&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=Backend%20Developer%20%7C%20Java%20and%20Spring%20Boot&descSize=18&descAlignY=54" width="100%" />
 
 <a href="https://github.com/RafaelMelloBarbosadaSilva">
-<h2>Java | Spring Boot | Backend</h2>
-<p>Automated testing and CI/CD &nbsp;·&nbsp; International telecom at Inatel | Huawei &nbsp;·&nbsp; Powered by coffee and passing tests</p>
+<a href="https://github.com/RafaelMelloBarbosadaSilva">
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=680&lines=Java+%7C+Spring+Boot+%7C+Backend;Automated+testing+%7C+Integration+%7C+CI%2FCD;International+telecom+%7C+Inatel+%7C+Huawei;Building+software+with+quality+and+coffee" alt="Typing SVG" />
+</a>
 </a>
 
 </div>
