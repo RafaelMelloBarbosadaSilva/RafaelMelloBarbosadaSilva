@@ -75,8 +75,8 @@ Uncomment the rows below as the repositories become public:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RafaelMelloBarbosadaSilva&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=stars" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMelloBarbosadaSilva&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="165" src="https://raw.githubusercontent.com/RafaelMelloBarbosadaSilva/RafaelMelloBarbosadaSilva/main/profile/stats.svg" />
+<img height="165" src="https://raw.githubusercontent.com/RafaelMelloBarbosadaSilva/RafaelMelloBarbosadaSilva/main/profile/top-langs.svg" />
 
 <br/>
 
