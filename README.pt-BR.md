@@ -7,10 +7,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=190&section=header&text=Rafael%20Mello&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=Backend%20Developer%20%7C%20Java%20%26%20Spring%20Boot&descSize=18&descAlignY=54" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=190&section=header&text=Rafael%20Mello&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=Backend%20Developer%20%7C%20Java%20and%20Spring%20Boot&descSize=18&descAlignY=54" width="100%" />
 
 <a href="https://github.com/RafaelMelloBarbosadaSilva">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=620&lines=Java+%7C+Spring+Boot+%7C+Backend;Testes+automatizados+e+CI%2FCD;Telecom+internacional+na+Inatel+%7C+Huawei;Movido+a+caf%C3%A9+e+a+testes+passando" alt="Typing SVG" />
+<h2>Java | Spring Boot | Backend</h2>
+<p>Testes automatizados e CI/CD &nbsp;·&nbsp; Telecom internacional na Inatel | Huawei &nbsp;·&nbsp; Movido a café e a testes passando</p>
 </a>
 
 </div>
@@ -75,7 +76,6 @@ Descomente as linhas abaixo conforme os repositórios ficarem públicos:
 
 <div align="center">
 
-<img height="165" src="https://raw.githubusercontent.com/RafaelMelloBarbosadaSilva/RafaelMelloBarbosadaSilva/main/profile/stats.svg" />
 <img height="165" src="https://raw.githubusercontent.com/RafaelMelloBarbosadaSilva/RafaelMelloBarbosadaSilva/main/profile/top-langs.svg" />
 
 <br/>
