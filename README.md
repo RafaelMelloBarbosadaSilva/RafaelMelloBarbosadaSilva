@@ -1,24 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=190&section=header&text=Rafael%20Mello&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=Engenheiro%20de%20Software%20%2B%20M%C3%BAsico&descSize=18&descAlignY=54" width="100%" />
+[![EN](https://img.shields.io/badge/lang-English-36BCF7?style=flat-square)](README.md)
+[![PT-BR](https://img.shields.io/badge/idioma-Portugu%C3%AAs-lightgrey?style=flat-square)](README.pt-BR.md)
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=190&section=header&text=Rafael%20Mello&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=Backend%20Developer%20%7C%20Java%20%26%20Spring%20Boot&descSize=18&descAlignY=54" width="100%" />
 
 <a href="https://github.com/RafaelMelloBarbosadaSilva">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=620&lines=Java+%7C+Spring+Boot+%7C+Backend;Testes+automatizados+e+CI%2FCD;Telecom+internacional+na+Inatel+%7C+Huawei;Guitarra%2C+bateria+e+baixo+de+5+cordas" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=620&lines=Java+%7C+Spring+Boot+%7C+Backend;Automated+testing+and+CI%2FCD;International+telecom+at+Inatel+%7C+Huawei;Powered+by+coffee+and+passing+tests" alt="Typing SVG" />
 </a>
 
 </div>
 
 ---
 
-## Sobre
+## About
 
-Desenvolvo backend em **Java e Spring Boot**, com foco em código testável, cobertura real e entrega automatizada.
+I build backend systems with **Java and Spring Boot**, focused on testable code, meaningful coverage and automated delivery.
 
-- 🛰️ **Técnico de Sistemas I** no **Inatel | Huawei** (P&DC), em projetos de modernização de sites **2G/3G/4G/5G** para a operadora **TELCEL (México)**
-- 🌎 Time multicultural entre **Brasil, México e China** — alinhamento técnico diário em inglês
-- 🎓 **Engenharia de Software** no Inatel (Santa Rita do Sapucaí/MG), conclusão em **2028**
-- 🧪 Foco atual: **Testcontainers**, testes de integração de API e pipelines de CI/CD
-- 🎸 Músico antes de engenheiro: guitarra, bateria e baixo de 5 cordas
+- 🛰️ **Systems Technician I** at **Inatel | Huawei** (P&DC), working on **2G/3G/4G/5G** site modernization projects for the operator **TELCEL (Mexico)**
+- 🌎 Multicultural team across **Brazil, Mexico and China** — daily technical alignment in English
+- 🎓 **Software Engineering** at Inatel (Santa Rita do Sapucaí, Brazil), graduating in **2028**
+- 🧪 Currently focused on **Testcontainers**, API integration testing and CI/CD pipelines
+- ☕ Powered by coffee: the first one wakes me up, the second one decodes the stack trace
 
 ---
 
@@ -46,25 +53,25 @@ Desenvolvo backend em **Java e Spring Boot**, com foco em código testável, cob
 
 ---
 
-## Projetos
+## Projects
 
-| Projeto | O que é | Stack |
+| Project | What it is | Stack |
 |---|---|---|
-| [**BugTracker**](https://github.com/RafaelMelloBarbosadaSilva/BugTracker) | Gerenciador de bugs em console — projeto em grupo com contribuições próprias | Java · POO |
-| [**Exercícios de Lógica em Java**](https://github.com/RafaelMelloBarbosadaSilva/Exercicios-de-logica-em-Java) | Exercícios práticos de raciocínio lógico, clean code e algoritmos | Java |
+| [**BugTracker**](https://github.com/RafaelMelloBarbosadaSilva/BugTracker) | Console-based bug manager — group project with personal contributions | Java · OOP |
+| [**Java Logic Exercises**](https://github.com/RafaelMelloBarbosadaSilva/Exercicios-de-logica-em-Java) | Practical exercises on logical reasoning, clean code and algorithms | Java |
 
 <!--
-Descomente as linhas abaixo conforme os repositórios ficarem públicos:
+Uncomment the rows below as the repositories become public:
 
-| [**RetroBolsa API**](https://github.com/USUARIO/retrobolsa-api) | API com autenticação e testes de integração ponta a ponta | Spring Boot 4 · Java 21 · Testcontainers · PostgreSQL |
-| [**TaskFlow**](https://github.com/RafaelMelloBarbosadaSilva/TaskFlow) | Gerenciamento de tarefas com cobertura de testes e pipeline | Java 17 · JUnit · JaCoCo · GitHub Actions |
-| [**minikahoot**](https://github.com/RafaelMelloBarbosadaSilva/minikahoot) | Quiz multiplayer estilo Kahoot sobre sockets TCP | Java · Docker · Jenkins |
-| [**site-dra-mafer-mello**](https://github.com/RafaelMelloBarbosadaSilva/site-dra-mafer-mello) | Site profissional estático para consultório médico | HTML · CSS · JavaScript |
+| [**RetroBolsa API**](https://github.com/USERNAME/retrobolsa-api) | REST API with authentication and end-to-end integration tests | Spring Boot 4 · Java 21 · Testcontainers · PostgreSQL |
+| [**TaskFlow**](https://github.com/RafaelMelloBarbosadaSilva/TaskFlow) | Task management system with test coverage and CI pipeline | Java 17 · JUnit · JaCoCo · GitHub Actions |
+| [**minikahoot**](https://github.com/RafaelMelloBarbosadaSilva/minikahoot) | Kahoot-style multiplayer quiz over TCP sockets | Java · Docker · Jenkins |
+| [**site-dra-mafer-mello**](https://github.com/RafaelMelloBarbosadaSilva/site-dra-mafer-mello) | Static professional website for a medical practice | HTML · CSS · JavaScript |
 -->
 
 ---
 
-## Estatísticas
+## Stats
 
 <div align="center">
 
@@ -79,7 +86,7 @@ Descomente as linhas abaixo conforme os repositórios ficarem públicos:
 
 ---
 
-## Contribuições
+## Contributions
 
 <div align="center">
 
@@ -89,7 +96,7 @@ Descomente as linhas abaixo conforme os repositórios ficarem públicos:
 
 ---
 
-## Contato
+## Contact
 
 <div align="center">
 
@@ -98,7 +105,7 @@ Descomente as linhas abaixo conforme os repositórios ficarem públicos:
 
 <br/><br/>
 
-<i>"Código e música seguem a mesma regra: estrutura primeiro, improviso depois."</i>
+<i>Coffee in, code out. Still profiling the bottleneck.</i>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%" />
 
