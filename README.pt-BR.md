@@ -61,14 +61,13 @@ Desenvolvo backend em **Java e Spring Boot**, com foco em código testável, cob
 |---|---|---|
 | [**BugTracker**](https://github.com/RafaelMelloBarbosadaSilva/BugTracker) | Gerenciador de bugs em console — projeto em grupo com contribuições próprias | Java · POO |
 | [**Exercícios de Lógica em Java**](https://github.com/RafaelMelloBarbosadaSilva/Exercicios-de-logica-em-Java) | Exercícios práticos de raciocínio lógico, clean code e algoritmos | Java |
+| [**site-dra-mafer-mello**](https://github.com/RafaelMelloBarbosadaSilva/site-dra-mafer-mello) | Site profissional estático para consultório médico | HTML · CSS · JavaScript |
 
 <!--
 Descomente as linhas abaixo conforme os repositórios ficarem públicos:
-
 | [**RetroBolsa API**](https://github.com/USUARIO/retrobolsa-api) | API com autenticação e testes de integração ponta a ponta | Spring Boot 4 · Java 21 · Testcontainers · PostgreSQL |
 | [**TaskFlow**](https://github.com/RafaelMelloBarbosadaSilva/TaskFlow) | Gerenciamento de tarefas com cobertura de testes e pipeline | Java 17 · JUnit · JaCoCo · GitHub Actions |
 | [**minikahoot**](https://github.com/RafaelMelloBarbosadaSilva/minikahoot) | Quiz multiplayer estilo Kahoot sobre sockets TCP | Java · Docker · Jenkins |
-| [**site-dra-mafer-mello**](https://github.com/RafaelMelloBarbosadaSilva/site-dra-mafer-mello) | Site profissional estático para consultório médico | HTML · CSS · JavaScript |
 -->
 
 ---
